@@ -1,4 +1,6 @@
 # WEB-DESIGN-PROJECTS
+These are the projects related to HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTARP.
+
 The weblinks of all projects are given below:
 
 1)http://www.epieraksts.lv/
